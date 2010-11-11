@@ -1,0 +1,140 @@
+Slot 1:
+Aviones en el Aeropuerto: [] (0)
+Peticiones de Aterrizaje: 0 Intento/s
+Despegues: 1 Intento/s
+Slot 2:
+Aviones en el Aeropuerto: [] (0)
+Peticiones de Aterrizaje: 0 Intento/s
+Despegues: 1 Intento/s
+Slot 3:
+Aviones en el Aeropuerto: [] (0)
+Peticiones de Aterrizaje: 2 Intento/s
+[IB1 ,3 ,?] Aterriza
+[UA2 ,3 ,?] Aterriza
+Despegues: 0 Intento/s
+Slot 4:
+Aviones en el Aeropuerto: [[UA2 ,3 ,?], [IB1 ,3 ,?]] (2)
+Peticiones de Aterrizaje: 0 Intento/s
+Despegues: 2 Intento/s
+[UA2 ,3 ,4] Despega
+[IB1 ,3 ,4] Despega
+Slot 5:
+Aviones en el Aeropuerto: [] (0)
+Peticiones de Aterrizaje: 1 Intento/s
+[BA3 ,5 ,?] Aterriza
+Despegues: 2 Intento/s
+[BA3 ,5 ,5] Despega
+Slot 6:
+Aviones en el Aeropuerto: [] (0)
+Peticiones de Aterrizaje: 2 Intento/s
+[UA4 ,6 ,?] Aterriza
+[US5 ,6 ,?] Aterriza
+Despegues: 2 Intento/s
+Slot 7:
+Aviones en el Aeropuerto: [[UA4 ,6 ,?], [US5 ,6 ,?]] (2)
+Peticiones de Aterrizaje: 2 Intento/s
+[IB6 ,7 ,?] Aterriza
+[IB7 ,7 ,?] Aterriza
+Despegues: 1 Intento/s
+Slot 8:
+Aviones en el Aeropuerto: [[UA4 ,6 ,?], [US5 ,6 ,?], [IB7 ,7 ,?], [IB6 ,7 ,?]] (4)
+Peticiones de Aterrizaje: 1 Intento/s
+[UA8 ,8 ,?] Aterriza
+Despegues: 2 Intento/s
+[UA4 ,6 ,8] Despega
+Slot 9:
+Aviones en el Aeropuerto: [[UA8 ,8 ,?], [US5 ,6 ,?], [IB7 ,7 ,?], [IB6 ,7 ,?]] (4)
+Peticiones de Aterrizaje: 0 Intento/s
+Despegues: 2 Intento/s
+[UA8 ,8 ,9] Despega
+[US5 ,6 ,9] Despega
+Slot 10:
+Aviones en el Aeropuerto: [[IB7 ,7 ,?], [IB6 ,7 ,?]] (2)
+Peticiones de Aterrizaje: 0 Intento/s
+Despegues: 3 Intento/s
+[IB7 ,7 ,10] Despega
+[IB6 ,7 ,10] Despega
+Slot 11:
+Aviones en el Aeropuerto: [] (0)
+Peticiones de Aterrizaje: 2 Intento/s
+[US9 ,11 ,?] Aterriza
+[US10 ,11 ,?] Aterriza
+Despegues: 3 Intento/s
+Slot 12:
+Aviones en el Aeropuerto: [[US10 ,11 ,?], [US9 ,11 ,?]] (2)
+Peticiones de Aterrizaje: 2 Intento/s
+[UA11 ,12 ,?] Aterriza
+[US12 ,12 ,?] Aterriza
+Despegues: 0 Intento/s
+Slot 13:
+Aviones en el Aeropuerto: [[US12 ,12 ,?], [US10 ,11 ,?], [UA11 ,12 ,?], [US9 ,11 ,?]] (4)
+Peticiones de Aterrizaje: 0 Intento/s
+Despegues: 3 Intento/s
+[US12 ,12 ,13] Despega
+[US10 ,11 ,13] Despega
+Slot 14:
+Aviones en el Aeropuerto: [[UA11 ,12 ,?], [US9 ,11 ,?]] (2)
+Peticiones de Aterrizaje: 2 Intento/s
+[AA13 ,14 ,?] Aterriza
+[AF14 ,14 ,?] Aterriza
+Despegues: 3 Intento/s
+Slot 15:
+Aviones en el Aeropuerto: [[UA11 ,12 ,?], [US9 ,11 ,?], [AA13 ,14 ,?], [AF14 ,14 ,?]] (4)
+Peticiones de Aterrizaje: 1 Intento/s
+[AA15 ,15 ,?] Aterriza
+Despegues: 0 Intento/s
+Slot 16:
+Aviones en el Aeropuerto: [[UA11 ,12 ,?], [AA15 ,15 ,?], [US9 ,11 ,?], [AA13 ,14 ,?], [AF14 ,14 ,?]] (5)
+Peticiones de Aterrizaje: 1 Intento/s
+[BA16 ,? ,?] Desviado a otro Aeropuerto
+Despegues: 0 Intento/s
+Slot 17:
+Aviones en el Aeropuerto: [[UA11 ,12 ,?], [AA15 ,15 ,?], [US9 ,11 ,?], [AA13 ,14 ,?], [AF14 ,14 ,?]] (5)
+Peticiones de Aterrizaje: 0 Intento/s
+Despegues: 2 Intento/s
+[UA11 ,12 ,17] Despega
+[AA15 ,15 ,17] Despega
+Slot 18:
+Aviones en el Aeropuerto: [[US9 ,11 ,?], [AA13 ,14 ,?], [AF14 ,14 ,?]] (3)
+Peticiones de Aterrizaje: 0 Intento/s
+Despegues: 1 Intento/s
+[US9 ,11 ,18] Despega
+Slot 19:
+Aviones en el Aeropuerto: [[AA13 ,14 ,?], [AF14 ,14 ,?]] (2)
+Peticiones de Aterrizaje: 3 Intento/s
+[US17 ,19 ,?] Aterriza
+[US18 ,19 ,?] Aterriza
+Despegues: 2 Intento/s
+Slot 20:
+Aviones en el Aeropuerto: [[US18 ,19 ,?], [US17 ,19 ,?], [AA13 ,14 ,?], [AF14 ,14 ,?]] (4)
+Peticiones de Aterrizaje: 1 Intento/s
+[US20 ,20 ,?] Aterriza
+Despegues: 1 Intento/s
+[US20 ,20 ,20] Despega
+Slot 21:
+Aviones en el Aeropuerto: [[US18 ,19 ,?], [US17 ,19 ,?], [AA13 ,14 ,?], [AF14 ,14 ,?]] (4)
+Peticiones de Aterrizaje: 2 Intento/s
+[IB21 ,21 ,?] Aterriza
+[BA22 ,? ,?] Desviado a otro Aeropuerto
+Despegues: 1 Intento/s
+[IB21 ,21 ,21] Despega
+Slot 22:
+Aviones en el Aeropuerto: [[US18 ,19 ,?], [US17 ,19 ,?], [AA13 ,14 ,?], [AF14 ,14 ,?]] (4)
+Peticiones de Aterrizaje: 1 Intento/s
+[UA23 ,22 ,?] Aterriza
+Despegues: 3 Intento/s
+[UA23 ,22 ,22] Despega
+Slot 23:
+Aviones en el Aeropuerto: [[US18 ,19 ,?], [US17 ,19 ,?], [AA13 ,14 ,?], [AF14 ,14 ,?]] (4)
+Peticiones de Aterrizaje: 3 Intento/s
+[BA24 ,23 ,?] Aterriza
+[AF25 ,? ,?] Desviado a otro Aeropuerto
+[UA26 ,? ,?] Desviado a otro Aeropuerto
+Despegues: 1 Intento/s
+[BA24 ,23 ,23] Despega
+Slot 24:
+Aviones en el Aeropuerto: [[US18 ,19 ,?], [US17 ,19 ,?], [AA13 ,14 ,?], [AF14 ,14 ,?]] (4)
+Peticiones de Aterrizaje: 2 Intento/s
+[UA27 ,24 ,?] Aterriza
+[US28 ,? ,?] Desviado a otro Aeropuerto
+Despegues: 0 Intento/s
