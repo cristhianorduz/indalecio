@@ -1,5 +1,4 @@
-
-
+// Esto es una prueba
 package aeropuerto;
 import java.util.*;
 import java.io.*;
